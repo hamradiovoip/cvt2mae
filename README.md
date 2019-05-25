@@ -1,0 +1,2 @@
+# cvt2mae
+ Cvt2Mae is a Java program designed to make it easier for use by researchers to use MAExplorer by helping them convert their data into the MAExplorer format. Cvt2Mae handles commercial chips such as Affymetrix, as well as other standard formats such as GenePix and Scanalyze or one-of-a-kind custom academic chips (&lt;User-defined>). In addition, you may specify the fields of interest for the "Print file" or (GIPO or Gene-In-Plate-Order) file, and the fields containing the quantified data. 
