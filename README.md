@@ -1,9 +1,9 @@
+
 <html><head>
 <meta http-equiv="content-type" content="text/html; charset=windows-1252">
 <!-- META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW" -->
 
-<title> 
-Cvt2Mae Data Converter
+<title>  Cvt2Mae Data Converter
 </title>
 </head>
 
@@ -12,7 +12,7 @@ Cvt2Mae Data Converter
 <center>
 <h2> Cvt2Mae Data Converter</h2>
 <a href="http://maexplorer.sourceforge.net/Cvt2Mae/docs/Install/install.html">
-<img src="Cvt2Mae%20Data%20Converter_files/C2Micon.gif" alt="Install Cvt2Mae on your computer" align="middle"></a>
+<img src="C2Micon.gif" alt="Install Cvt2Mae on your computer" align="middle"></a>
 </center>
 <pre>
 </pre>
